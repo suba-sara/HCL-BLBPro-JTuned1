@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+/* body{ */
+/*     background:url('http://www.wallpaperup.com/uploads/wallpapers/2012/10/21/20181/cad2441dd3252cf53f12154412286ba0.jpg'); */
+/*     background-color:white; */
+/*     padding:50px; */
+/* } */
+
+
+table {
+  border-collapse: separate;
+  /*border-spacing: 0 15px;*/
+/*   background-color: #0080ff; */
+}
+
+td {
+  width: 175px;
+  text-align: Left;
+  border: 2px ;
+  padding: 5px;
+  color:#000000;
+  font-size: large;
+  font-family: serif;
+  
+}
+
+button{
+		
+}
+th{
+	color:#008fff;
+	background-color:#ffffff;
+}
+
+error {
+	color: red;
+	font-style: italic;
+}
+
+
+
