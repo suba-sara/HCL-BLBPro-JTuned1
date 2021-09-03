@@ -51,7 +51,7 @@ create table donordetails(
    mobileno NUMBER(10) NOT NULL,
    gender VARCHAR2(6),
    email VARCHAR2(25) NOT NULL,
-   bloodgroup VARCHAR2(5)
+   bloodgroup VARCHAR2(5),
    address VARCHAR2(25), 
    units NUMBER(5),
    PRIMARY KEY (donorid)
